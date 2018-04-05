@@ -1,9 +1,28 @@
 import React, {Component} from 'react';
+import {Grid, Cell} from 'react-mdl';
 
 class Landing extends Component {
   render() {
     return(
-      <div><h1>Landing page</h1></div>
+      <div style= {{width: '100%', margin: 'auto'}}>
+        <Grid className="landing-grid">
+          <Cell col={12}>
+            <img
+              src="https://www.farmsteadapp.com/assets/instant/icons/avatar-female-ca2c0612db1b4067b537b0ce386004e4c5ca10abcc0873d2152af1e9c0965e92.png"
+              alt="avatar"
+              className="avatar-img"
+            />
+
+            <div className="banner-text">
+              <h1>Lauren Vickers</h1>
+              <hr/>
+              <p>THERAPEUTIC • DEEP TISSUE • SPORTS • LODI, CA</p>
+              <hr/>
+              <p>hi@laurenvickers.xyz • 209.555.5555</p>
+            </div>
+          </Cell>
+        </Grid>
+      </div>
     )
   }
 }
