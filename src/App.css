@@ -40,6 +40,10 @@
   height: 100%;
 }
 
+.about-grid {
+  /* nothing has to be here, yet */
+}
+
 .avatar-img {
   height: 250px;
   padding-top: 5em;
