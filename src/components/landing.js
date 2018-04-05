@@ -16,9 +16,9 @@ class Landing extends Component {
             <div className="banner-text">
               <h1>Lauren Vickers</h1>
               <hr/>
-              <p>THERAPEUTIC • DEEP TISSUE • SPORTS • LODI, CA</p>
+              <p>THERAPEUTIC  •  DEEP TISSUE  •  SPORTS  •  LODI, CA</p>
               <hr/>
-              <p>hi@laurenvickers.xyz • 209.555.5555</p>
+            <p>info@laurenvickers.xyz  •  209.555.5555</p>
             </div>
           </Cell>
         </Grid>

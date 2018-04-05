@@ -12,6 +12,7 @@ class App extends Component {
         <Layout>
             <Header className="header-color" title="Lauren Vickers Massage Therapy" scroll>
                 <Navigation>
+                    <Link to="/">Home</Link>
                     <Link to="/about">About</Link>
                     <Link to="/services">Services</Link>
                     <Link to="/booking">Booking</Link>

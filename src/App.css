@@ -40,8 +40,8 @@
   height: 100%;
 }
 
-.about-grid {
-  /* nothing has to be here, yet */
+.contact-grid {
+  text-align: center;
 }
 
 .avatar-img {
