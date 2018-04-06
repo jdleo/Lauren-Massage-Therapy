@@ -18,7 +18,7 @@ class Landing extends Component {
               <hr/>
               <p>THERAPEUTIC  •  DEEP TISSUE  •  SPORTS  •  LODI, CA</p>
               <hr/>
-            <p>info@laurenvickers.xyz  •  209.555.5555</p>
+            <p>info@laurenvickers.xyz  •  209.336.3373</p>
             </div>
           </Cell>
         </Grid>

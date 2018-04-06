@@ -40,6 +40,10 @@
   height: 100%;
 }
 
+.services-grid {
+  display: flex;
+}
+
 .contact-grid {
   text-align: center;
 }

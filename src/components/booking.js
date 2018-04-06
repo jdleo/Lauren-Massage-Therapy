@@ -1,9 +1,12 @@
 import React, {Component} from 'react';
+import Iframe from 'react-iframe';
 
 class Booking extends Component {
   render() {
     return(
-      <div><h1>Booking page</h1></div>
+      <div>
+        <Iframe url="https://app.acuityscheduling.com/schedule.php?owner=15519334"/>
+      </div>
     )
   }
 }
