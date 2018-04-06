@@ -28,7 +28,7 @@ class Landing extends Component {
         </MediaQuery>
 
         <MediaQuery query="(max-device-width: 1224px)">
-          <Grid className="landing-grid=mobile">
+          <Grid className="landing-grid-mobile">
             <Cell col={12}>
               <img
                 src="https://www.farmsteadapp.com/assets/instant/icons/avatar-female-ca2c0612db1b4067b537b0ce386004e4c5ca10abcc0873d2152af1e9c0965e92.png"

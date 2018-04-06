@@ -83,6 +83,13 @@
   border-radius: 10px;
 }
 
+.banner-text-mobile h1 {
+  font-size: 40px;
+  font-weight: bold;
+  color: white;
+  padding-top: 1em;
+}
+
 .banner-text h1 {
   font-size: 40px;
   font-weight: bold;
